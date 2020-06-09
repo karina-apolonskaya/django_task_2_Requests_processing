@@ -1,0 +1,5 @@
+# Django stuff:
+.idea/
+venv/
+db.sqlite3
+requirements.txt
